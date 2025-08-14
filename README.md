@@ -1,5 +1,7 @@
 # 🗂️ React Hooks Kanban Board
 
+![Board View](/board-view.png)
+
 A simple and interactive **Kanban Board** built with **React, TypeScript, Tailwind CSS, and Vite**.  
 This project demonstrates **state management with React Hooks** (`useState`, `useReducer`, `useContext`) and a **modular component architecture** for task organization.
 
