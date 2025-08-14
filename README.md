@@ -36,15 +36,14 @@ This project demonstrates **state management with React Hooks** (`useState`, `us
    ```bash
    git clone https://github.com/yourusername/react-hooks-kanban.git
    cd react-hooks-kanban
-   Install dependencies
+   Install dependencies:
+   npm install
+   
+   Run the development server:
+   npm run dev
 
-npm install
+   Build for production:
+   npm run build
 
-Run the development server
-npm run dev
-
-Build for production
-npm run build
-
-Preview production build
-npm run preview
+   Preview production build:
+   npm run preview
